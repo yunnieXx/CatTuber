@@ -1009,34 +1009,6 @@
       ],
       "events": [
         {
-          "folded": true,
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 128,
-            "g": 105,
-            "r": 118,
-            "textB": 255,
-            "textG": 255,
-            "textR": 255
-          },
-          "comment": "Hello!, this is the code for scene. This is where the character is given commands to do stuff!\n\nA small intro : \nThe comments made in this project are for both beginners, people who just used Gdevelop for the first time and people wanting to understand what is the function for each thing!\nI hope you don't mind how detailed it is ^^\n\n-Click on the arrows beside the event groups to open them\n-If you find any code that is crossed, right-click it and click \"Toggle disabled\". This works if you want to enable or disable your code\n-If you have any problems with the code, make sure to check Gdevelop's official youtube channel! \" https://www.youtube.com/@GDevelopApp \"",
-          "comment2": ""
-        },
-        {
-          "folded": true,
-          "type": "BuiltinCommonInstructions::Comment",
-          "color": {
-            "b": 124,
-            "g": 90,
-            "r": 111,
-            "textB": 255,
-            "textG": 255,
-            "textR": 255
-          },
-          "comment": "The Scene on top will always start first, make sure if you will use the frame by frame one, make sure it is the top one\nMake sure to check the sprites from the editor itself. Double click on the sprites in the \"Object\" Tab to check them out!\nYou can ofc remove all the tweens if you just want a still image with no movement\nFinal note (for now lol), If you want to make a \"pixel\" character, make sure to go to properties and click on the \"Round pixels\" and set the scaling to \"Nearest\"",
-          "comment2": ""
-        },
-        {
           "colorB": 0,
           "colorG": 157,
           "colorR": 250,
